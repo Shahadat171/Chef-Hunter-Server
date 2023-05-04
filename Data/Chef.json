@@ -1,0 +1,51 @@
+[
+  {
+    "chefPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSus7WIe-f1OQdc_VZwBFHzZlfo2WS8wlWAuawZcqLNSoWKjXUDeIyw0iCQimyGHfwOiOo&usqp=CAU",
+    "chefName": "Kamran Mirja",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 5,
+    "likes": 278,
+    "description": "I am Fatema Akhter, a passionate Bengali chef with over 15 years of experience in creating more than 75 delicious recipes. I have been recognized for my unique approach to Bengali cuisine, incorporating a wide range of spices and flavors to create bold and flavorful dishes. Whether you're looking for a hearty meal or a light snack, my recipes are sure to impress. Come and experience the best of Bengali cuisine with me, Fatema Akhter - you won't be disappointed!"
+  },
+  {
+    "chefPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZJqUxzf--AmPxvg8no4pWK-WdQ3cmWp8Ycw&usqp=CAU",
+    "chefName": "Shahriar Nafees",
+    "yearsOfExperience": 13,
+    "numberOfRecipes": 9,
+    "likes": 439,
+    "description": "I am Amitava Roy, a masterful Bengali chef with over 20 years of experience in creating more than 100 mouth-watering recipes. I take pride in using only the freshest and highest quality ingredients in my cooking, and my attention to detail ensures that each dish is a work of art. From classic Bengali dishes to innovative creations, my recipes are sure to satisfy even the most discerning of palates. Join me on a culinary journey through the flavors of Bengal - Amitava Roy is the name to remember!"
+  },
+  {
+    "chefPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfT1Sf3SvHYDfqZD5z65I6hQbM2H9j5HrZOQ&usqp=CAU",
+    "chefName": "Alamgir Kabir",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 4,
+    "likes": 675,
+    "description": "I am Sanjida Ahmed, a talented Bengali chef with 8 years of experience in creating more than 40 delicious recipes. My specialty is in creating healthy and nutritious dishes that are still packed with flavor. I believe that food should not only taste good, but also be good for you. Whether you're looking for a gluten-free, vegetarian, or low-fat dish, I have the perfect recipe for you. Join me on a journey to better health and delicious food with Sanjida Ahmed - the chef who cares!"
+  },
+  {
+    "chefPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhkPdxYRcD2eiXBVV-MIhMEQkpvAPFmf_fIQ&usqp=CAU",
+    "chefName": "Mustafa Kamal",
+    "yearsOfExperience": 8,
+    "numberOfRecipes": 6,
+    "likes": 150,
+    "description": "I am Rahul Banerjee, a skilled Bengali chef with over 12 years of experience in creating more than 60 unique and flavorful recipes. My passion for food started at a young age, and I have been experimenting with flavors and techniques ever since. My dishes are a fusion of traditional Bengali cooking and modern culinary trends, resulting in a fresh and exciting culinary experience. Join me on a culinary journey through the flavors of Bengal and beyond - with Rahul Banerjee, there's always something new to discover!"
+  },
+  {
+    "chefPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Nzm_TDPRB_Y0aNg0MNiUoISYD7FRN7Kdew&usqp=CAU",
+    "chefName": "Tanvir Haydar",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": 8,
+    "likes": 350,
+    "description": "Discover the authentic flavors of Bengal with our talented Bengali Chef! Using traditional cooking techniques and the freshest ingredients, he creates mouth-watering dishes that are sure to impress your taste buds. From spicy curries to delicate seafood, experience the richness of Bengali cuisine. Book him for your next event."
+  },
+  {
+    "chefPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWhro9W_MkZxQXM32FtwxaiMS3OU_xw-039w&usqp=CAU",
+    "chefName": "Tanvir Shakil",
+    "yearsOfExperience": 11,
+    "numberOfRecipes": 10,
+    "likes": 200,
+    "description": "If you're looking for a culinary adventure, our Bengali Chef is just the ticket! Born and raised in Bengal, he brings his passion for food and culture to every dish he creates. With a keen eye for detail and a focus on quality, he delivers a truly authentic experience. From the vibrant colors to the complex flavors, let our Bengali Chef take you on a journey through the tastes of Bengal. Book him now for a meal you won't soon forget!"
+    
+  }
+]
