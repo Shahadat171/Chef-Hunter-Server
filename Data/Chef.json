@@ -8,8 +8,8 @@
     "likes": 278,
     "recipe": [
       {
-        " name": "Cholar Dal",
-        " ingredients": [
+        "name": "Cholar Dal",
+        "ingredients": [
           "Chana dal",
           "Ginger",
           "Green chili",
@@ -22,11 +22,12 @@
           "Sugar",
           "Ghee"
         ],
-        " cookingMethod": "Soak chana dal for a few hours and cook in a pressure cooker with ginger, green chili, turmeric, and salt. In a separate pan, saute coconut, cumin, coriander, and garam masala in ghee. Add the cooked chana dal and simmer for a few minutes. Serve hot with steamed rice."
+        "cookingMethod": "Soak chana dal for a few hours and cook in a pressure cooker with ginger, green chili, turmeric, and salt. In a separate pan, saute coconut, cumin, coriander, and garam masala in ghee. Add the cooked chana dal and simmer for a few minutes. Serve hot with steamed rice.",
+        "ratings":6
       },
       {
         "name": "Doi Katla",
-        " ingredients": [
+        "ingredients": [
           "Katla fish",
           "Yogurt",
           "Onion",
@@ -41,11 +42,12 @@
           "Sugar",
           "Mustard oil"
         ],
-        "cookingMethod": "Marinate katla fish with yogurt, onion, garlic, ginger, green chili, cumin, coriander, turmeric, garam masala, salt, and sugar. In a separate pan, saute the marinated fish in mustard oil until the fish is tender. Serve hot with steamed rice."
+        "cookingMethod": "Marinate katla fish with yogurt, onion, garlic, ginger, green chili, cumin, coriander, turmeric, garam masala, salt, and sugar. In a separate pan, saute the marinated fish in mustard oil until the fish is tender. Serve hot with steamed rice.",
+        "ratings":4
       },
       {
         "name": "Doi Katla",
-        " ingredients": [
+        "ingredients": [
           "Katla fish",
           "Yogurt",
           "Onion",
@@ -60,7 +62,8 @@
           "Sugar",
           "Mustard oil"
         ],
-        " cookingMethod": "Marinate katla fish with yogurt, onion, garlic, ginger, green chili, cumin, coriander, turmeric, garam masala, salt, and sugar. In a separate pan, saute the marinated fish in mustard oil until the fish is tender. Serve hot with steamed rice."
+        "cookingMethod": "Marinate katla fish with yogurt, onion, garlic, ginger, green chili, cumin, coriander, turmeric, garam masala, salt, and sugar. In a separate pan, saute the marinated fish in mustard oil until the fish is tender. Serve hot with steamed rice.",
+        "ratings":3
       }
     ],
     "description": "I am Fatema Akhter, a passionate Bengali chef with over 15 years of experience in creating more than 75 delicious recipes. I have been recognized for my unique approach to Bengali cuisine, incorporating a wide range of spices and flavors to create bold and flavorful dishes. Whether you're looking for a hearty meal or a light snack, my recipes are sure to impress. Come and experience the best of Bengali cuisine with me, Fatema Akhter - you won't be disappointed!"
@@ -83,11 +86,12 @@
           "salt",
           "mustard oil"
         ],
-        "cookingMethod": "Marinate the Hilsa fish with turmeric and salt, and fry until golden brown. In a separate pan, sauté mustard paste and green chili in mustard oil, then add water and bring to a boil. Add the fried fish to the sauce and simmer until the sauce thickens. Serve hot with steamed rice."
+        "cookingMethod": "Marinate the Hilsa fish with turmeric and salt, and fry until golden brown. In a separate pan, sauté mustard paste and green chili in mustard oil, then add water and bring to a boil. Add the fried fish to the sauce and simmer until the sauce thickens. Serve hot with steamed rice.",
+        "ratings":5
       },
       {
-        " name": "Doi Fulkopi",
-        " ingredients": [
+        "name": "Doi Fulkopi",
+        "ingredients": [
           "Cauliflower",
           "Yogurt",
           "Ginger",
@@ -98,7 +102,8 @@
           "Sugar",
           "Mustard oil"
         ],
-        "cookingMethod": "Boil cauliflower and set aside. In a separate pan, saute ginger and green chili in mustard oil. Add cumin, turmeric, and yogurt and stir well. Add the boiled cauliflower and simmer for a few minutes. Add salt and sugar to taste. Serve hot with steamed rice."
+        "cookingMethod": "Boil cauliflower and set aside. In a separate pan, saute ginger and green chili in mustard oil. Add cumin, turmeric, and yogurt and stir well. Add the boiled cauliflower and simmer for a few minutes. Add salt and sugar to taste. Serve hot with steamed rice.",
+        "ratings":5
       },
       {
         "name": "Alu Posto",
@@ -110,7 +115,8 @@
           "Turmeric",
           "Salt"
         ],
-        "cookingMethod": "Boil potatoes and set aside. In a separate pan, saute poppy seeds and green chili in mustard oil. Grind the sauteed poppy seeds and chili to a paste. Add the paste to the boiled potatoes and mix well. Add turmeric and salt to taste. Serve hot with steamed rice."
+        "cookingMethod": "Boil potatoes and set aside. In a separate pan, saute poppy seeds and green chili in mustard oil. Grind the sauteed poppy seeds and chili to a paste. Add the paste to the boiled potatoes and mix well. Add turmeric and salt to taste. Serve hot with steamed rice.",
+        "ratings": 3
       }
     ],
     "description": "I am Amitava Roy, a masterful Bengali chef with over 20 years of experience in creating more than 100 mouth-watering recipes. I take pride in using only the freshest and highest quality ingredients in my cooking, and my attention to detail ensures that each dish is a work of art. From classic Bengali dishes to innovative creations, my recipes are sure to satisfy even the most discerning of palates. Join me on a culinary journey through the flavors of Bengal - Amitava Roy is the name to remember!"
@@ -136,7 +142,8 @@
           "Salt",
           "Oil"
         ],
-        "cookingMethod": "Soak split chickpeas overnight. In a separate pan, saute onion, garlic, ginger, and green chili in oil. Add the soaked chickpeas, cumin, turmeric, and salt and stir well. Add enough water to cover the chickpeas and simmer until cooked. Serve hot with deep-fried flatbread (luchi)."
+        "cookingMethod": "Soak split chickpeas overnight. In a separate pan, saute onion, garlic, ginger, and green chili in oil. Add the soaked chickpeas, cumin, turmeric, and salt and stir well. Add enough water to cover the chickpeas and simmer until cooked. Serve hot with deep-fried flatbread (luchi).",
+        "ratings": 5
       },
       {
         "name": "Shukto",
@@ -155,7 +162,8 @@
           "Sugar",
           "Mustard oil"
         ],
-        "cookingMethod": "Boil all the vegetables and set aside. In a separate pan, saute mustard and poppy seed paste in mustard oil. Add milk and bring to a boil. Add the boiled vegetables, turmeric, salt, and sugar and simmer for a few minutes. Serve hot with steamed rice."
+        "cookingMethod": "Boil all the vegetables and set aside. In a separate pan, saute mustard and poppy seed paste in mustard oil. Add milk and bring to a boil. Add the boiled vegetables, turmeric, salt, and sugar and simmer for a few minutes. Serve hot with steamed rice.",
+        "ratings": 2
       },
       {
         "name": "Chitol Maacher Muitha",
@@ -174,7 +182,8 @@
           "Sugar",
           "Mustard oil"
         ],
-        "cookingMethod": "Boil fish and potatoes and mash them together. In a separate pan, saute onion, garlic, ginger, and green chili in mustard oil. Add cumin, coriander, turmeric, salt, and sugar and stir well. Make small balls out of the mashed fish and potatoes and add to the pan. Add enough water to cover the balls and simmer until cooked. Serve hot with steamed rice."
+        "cookingMethod": "Boil fish and potatoes and mash them together. In a separate pan, saute onion, garlic, ginger, and green chili in mustard oil. Add cumin, coriander, turmeric, salt, and sugar and stir well. Make small balls out of the mashed fish and potatoes and add to the pan. Add enough water to cover the balls and simmer until cooked. Serve hot with steamed rice.",
+        "ratings": 4
       }
     ],
     "description": "I am Sanjida Ahmed, a talented Bengali chef with 8 years of experience in creating more than 40 delicious recipes. My specialty is in creating healthy and nutritious dishes that are still packed with flavor. I believe that food should not only taste good, but also be good for you. Whether you're looking for a gluten-free, vegetarian, or low-fat dish, I have the perfect recipe for you. Join me on a journey to better health and delicious food with Sanjida Ahmed - the chef who cares!"
@@ -204,7 +213,8 @@
           "Sugar",
           "Mustard oil"
         ],
-        "cookingMethod": "Boil fish and potatoes and mash them together. In a separate pan, saute onion, garlic, ginger, and green chili in mustard oil. Add cumin, coriander, turmeric, salt, and sugar and stir well. Make small balls out of the mashed fish and potatoes and add to the pan. Add enough water to cover the balls and simmer until cooked. Serve hot with steamed rice."
+        "cookingMethod": "Boil fish and potatoes and mash them together. In a separate pan, saute onion, garlic, ginger, and green chili in mustard oil. Add cumin, coriander, turmeric, salt, and sugar and stir well. Make small balls out of the mashed fish and potatoes and add to the pan. Add enough water to cover the balls and simmer until cooked. Serve hot with steamed rice.",
+        "ratings": 5
       },
       {
         "name": "Mezbani",
@@ -224,7 +234,8 @@
           "Salt",
           "Mustard oil"
         ],
-        "cookingMethod": "Heat mustard oil in a pan and sauté sliced onions until golden brown. Add garlic, ginger, and green chili and cook for a few minutes. Add diced potatoes and cook until slightly tender. Add diced tomatoes and cook until they turn soft. Add cumin, coriander, turmeric, red chili powder, and salt and mix well. Add mutton pieces and cook until they turn golden brown. Add water and let it simmer until the meat is fully cooked. Sprinkle garam masala and chopped coriander leaves on top. Serve hot with steamed rice."
+        "cookingMethod": "Heat mustard oil in a pan and sauté sliced onions until golden brown. Add garlic, ginger, and green chili and cook for a few minutes. Add diced potatoes and cook until slightly tender. Add diced tomatoes and cook until they turn soft. Add cumin, coriander, turmeric, red chili powder, and salt and mix well. Add mutton pieces and cook until they turn golden brown. Add water and let it simmer until the meat is fully cooked. Sprinkle garam masala and chopped coriander leaves on top. Serve hot with steamed rice.",
+        "ratings": 4
       },
       {
         "name": "Biriyani",
@@ -248,7 +259,8 @@
           "Salt",
           "Oil"
         ],
-        "cookingMethod": "Cook basmati rice in a pot until it's 70% done. Heat oil in a separate pan and sauté sliced onions until golden brown. Add garlic, ginger, and green chili and cook for a few minutes. Add diced tomatoes and cook until they turn soft. Add cumin, coriander, turmeric, red chili powder, and salt and mix well. Add chicken or mutton pieces and cook until they turn golden brown. Add water and let it simmer until the meat is fully cooked. Add bay leaves, cardamom, cinnamon, and cloves and mix well. Layer the cooked rice and meat mixture in a pot and cover it with a tight lid. Cook on low heat until the rice is fully cooked. Garnish with fried onions and boiled eggs. Serve hot with raita and salad."
+        "cookingMethod": "Cook basmati rice in a pot until it's 70% done. Heat oil in a separate pan and sauté sliced onions until golden brown. Add garlic, ginger, and green chili and cook for a few minutes. Add diced tomatoes and cook until they turn soft. Add cumin, coriander, turmeric, red chili powder, and salt and mix well. Add chicken or mutton pieces and cook until they turn golden brown. Add water and let it simmer until the meat is fully cooked. Add bay leaves, cardamom, cinnamon, and cloves and mix well. Layer the cooked rice and meat mixture in a pot and cover it with a tight lid. Cook on low heat until the rice is fully cooked. Garnish with fried onions and boiled eggs. Serve hot with raita and salad.",
+        "ratings": 3
       }
     ],
     "description": "I am Rahul Banerjee, a skilled Bengali chef with over 12 years of experience in creating more than 60 unique and flavorful recipes. My passion for food started at a young age, and I have been experimenting with flavors and techniques ever since. My dishes are a fusion of traditional Bengali cooking and modern culinary trends, resulting in a fresh and exciting culinary experience. Join me on a culinary journey through the flavors of Bengal and beyond - with Rahul Banerjee, there's always something new to discover!"
@@ -273,19 +285,22 @@
           "Cardamom",
           "Oil"
         ],
-        "cookingMethod": "Make a batter with all-purpose flour, rice flour, semolina, coconut, milk, sugar, and cardamom. Heat oil in a pan and spread a thin layer of the batter. Cook until both sides are lightly browned. Fold it into a roll and serve hot."
+        "cookingMethod": "Make a batter with all-purpose flour, rice flour, semolina, coconut, milk, sugar, and cardamom. Heat oil in a pan and spread a thin layer of the batter. Cook until both sides are lightly browned. Fold it into a roll and serve hot.",
+        "ratings": 5
       },
 
       {
         "name": "Luchi",
-        "ingredients": ["All-purpose flour", "Salt", "Oil"],
-        "cookingMethod": "Mix all-purpose flour, salt, and oil in a bowl. Add water and knead the dough. Divide the dough into small balls and roll them into circles. Heat oil in a pan and fry the luchis until they are golden brown. Serve hot with potato curry or chana dal."
+        "ingredients": ["All-purpose flour", "Milk", "Lentil", "Salt", "Oil"],
+        "cookingMethod": "Mix all-purpose flour, salt, and oil in a bowl. Add water and knead the dough. Divide the dough into small balls and roll them into circles. Heat oil in a pan and fry the luchis until they are golden brown. Serve hot with potato curry or chana dal.",
+        "ratings": 2
       },
 
       {
         "name": "Paratha",
-        "ingredients": ["Whole wheat flour", "Salt", "Oil", "Water"],
-        "cookingMethod": "Mix whole wheat flour, salt, and oil in a bowl. Add water and knead the dough. Divide the dough into small balls and roll them into circles. Fold the circle in half, then fold it again to form a triangle. Roll it out to form a triangle-shaped paratha. Heat oil in a pan and fry the paratha until it's golden brown. Serve hot with curry or yogurt."
+        "ingredients": ["Whole wheat flour", "Salt", "Sugar", "Oil", "Water"],
+        "cookingMethod": "Mix whole wheat flour, salt, and oil in a bowl. Add water and knead the dough. Divide the dough into small balls and roll them into circles. Fold the circle in half, then fold it again to form a triangle. Roll it out to form a triangle-shaped paratha. Heat oil in a pan and fry the paratha until it's golden brown. Serve hot with curry or yogurt.",
+        "ratings": 4
       }
     ],
     "description": "Discover the authentic flavors of Bengal with our talented Bengali Chef! Using traditional cooking techniques and the freshest ingredients, he creates mouth-watering dishes that are sure to impress your taste buds. From spicy curries to delicate seafood, experience the richness of Bengali cuisine. Book him for your next event."
@@ -313,7 +328,8 @@
           "Salt",
           "Water"
         ],
-        "cookingMethod": "Soak basmati rice in water for 30 minutes. Heat ghee in a pot and fry cashews and raisins until they turn golden brown. Remove from the pot and keep aside. In the same pot, fry sliced onions until golden brown. Add cinnamon, cardamom, and cloves and fry for a few seconds. Add the soaked rice and fry for a few minutes. Add water, salt, and saffron and bring it to a boil. Reduce the heat and cover the pot with a tight lid. Cook until the rice is fully done. Serve hot with the fried cashews and raisins on top."
+        "cookingMethod": "Soak basmati rice in water for 30 minutes. Heat ghee in a pot and fry cashews and raisins until they turn golden brown. Remove from the pot and keep aside. In the same pot, fry sliced onions until golden brown. Add cinnamon, cardamom, and cloves and fry for a few seconds. Add the soaked rice and fry for a few minutes. Add water, salt, and saffron and bring it to a boil. Reduce the heat and cover the pot with a tight lid. Cook until the rice is fully done. Serve hot with the fried cashews and raisins on top.",
+        "ratings": 4
       },
 
       {
@@ -337,7 +353,8 @@
           "Salt",
           "Water"
         ],
-        "cookingMethod": "Wash rice and lentils and keep them aside. Heat ghee in a pot and fry sliced onions until golden brown. Add garlic, ginger, and green chili and fry for a few minutes. Add cumin, coriander, turmeric, red chili powder, and salt and mix well. Add rice and lentils and fry for a few minutes. Add water, bay leaves, cinnamon, cardamom, and cloves and bring it to a boil. Reduce the heat and cover the pot with a tight lid. Cook until the rice and lentils are fully done. Serve hot with papad and mango chutney."
+        "cookingMethod": "Wash rice and lentils and keep them aside. Heat ghee in a pot and fry sliced onions until golden brown. Add garlic, ginger, and green chili and fry for a few minutes. Add cumin, coriander, turmeric, red chili powder, and salt and mix well. Add rice and lentils and fry for a few minutes. Add water, bay leaves, cinnamon, cardamom, and cloves and bring it to a boil. Reduce the heat and cover the pot with a tight lid. Cook until the rice and lentils are fully done. Serve hot with papad and mango chutney.",
+        "ratings": 5
       },
 
       {
@@ -351,7 +368,8 @@
           "Pistachios",
           "Almonds"
         ],
-        "cookingMethod": "Boil milk in a pot and reduce it to half. Add sugar, cardamom, and saffron and mix well. Add rose water and mix well. Cook until the milk thickens and attains a creamy texture. Remove from heat and let it cool down. Garnish with pistachios and almonds. Serve chilled."
+        "cookingMethod": "Boil milk in a pot and reduce it to half. Add sugar, cardamom, and saffron and mix well. Add rose water and mix well. Cook until the milk thickens and attains a creamy texture. Remove from heat and let it cool down. Garnish with pistachios and almonds. Serve chilled.",
+        "ratings": 3
       }
     ],
     "description": "If you're looking for a culinary adventure, our Bengali Chef is just the ticket! Born and raised in Bengal, he brings his passion for food and culture to every dish he creates. With a keen eye for detail and a focus on quality, he delivers a truly authentic experience. From the vibrant colors to the complex flavors, let our Bengali Chef take you on a journey through the tastes of Bengal. Book him now for a meal you won't soon forget!"
