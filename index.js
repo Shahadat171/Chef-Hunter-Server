@@ -4,6 +4,8 @@ const app = express();
 const port = process.env.PORT || 5000 ;
 app.use(cors())
 const Chef = require('./Data/Chef.json')
+const shop = require('./Data/Outlet.json')
+const dishes = require('./Data/Dishes.json')
 
 app.get( '/', (req, res) =>{
     res.send('Chefe is coming')
@@ -11,6 +13,14 @@ app.get( '/', (req, res) =>{
 
 app.get('/Chef', (req, res) =>{
     res.send(Chef)
+})
+
+app.get('/shop',(req,res)=>{
+    res.send(shop)
+})
+
+app.get('/dishes',(req,res)=>{
+    res.send(dishes)
 })
 
 app.get('/Chef/:id', (req,res) =>{
